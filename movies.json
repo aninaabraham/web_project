@@ -1,0 +1,185 @@
+[
+    {
+        "name": "ARM",
+        "image": "arm.jpeg",
+        "genre": "Drama,Adventure",
+        "director":"Jithin Laal",
+        "description": "A.R.M (officially titled: Ajayante Randam Moshanam;) is a 2024 Indian Malayalam-language action adventure film.",
+        "reviews": [
+            "A.R.M (officially titled: Ajayante Randam Moshanam;) is a 2024 Indian Malayalam-language action adventure film.",
+            "ARM is a fairytale. It has magic, mystery and magnificent visuals and a very happy ending. The film's engaging narrative, stunning visuals, and exceptional performances make it a must-watch.",
+            "A visual extravaganza set on the backdrop of a mythological tale. Ajayante Randam Moshanam is a noteworthy addition to Malayalam cinema, especially for fans of historical fantasy with a mix of action and drama."
+          ]
+        
+    },
+    {
+        "name": "Pathaan",
+        "image": "pathan.jpeg",
+        "genre": "Thriller",
+        "director":"Siddharth Anand",
+        "description":  "Pathaan is a 2023 Indian Hindi-language action thriller film. The film set several box office records for a Hindi film.",
+        "reviews": [
+           "Stylish, slick and action-packed film; in one word it’s a ‘Blockbuster’. The film has actions, thrills, a bit of suspense, and a gripping storyline. SRK is back with a bang and has made his fans delighted, a long wait proven worthy.",
+           "Pathaan, the prolific musician and DJ, delivers an unforgettable musical experience that transcends genres and borders. In his latest work, he masterfully weaves a diverse tapestry of sounds.",
+           "Our beloved 90s hero is still alive and well at the age of 57, and PATHAAN is his devastating comeback that literally ignites fireworks in theatres from the sides of his fans and admirers who have never let him down."
+         ]
+        
+    },
+    {
+        "name": "Aavesham",
+        "image": "avesham.jpeg",
+        "genre": "Comedy,Drama",
+        "director":"Jithu Madhavan",
+        "description":  "Three teens come to Bangalore for their engineering education and get involved in a fight. They find a local gangster to help them.",
+        "reviews": [
+           "Laugh Riot is an uproarious comedy that will leave you in stitches from start to finish. Directed with impeccable comedic timing, offering a perfect escape from the mundane with its delightful mix of humor and heart.",
+            "Aavesham storms onto the screen as a high-voltage cocktail of comedy, action, and sheer entertainment, firmly establishing itself as a must-watch in the Malayalam cinema landscape.",
+            "Won't say a high-fi Oscar worthy performance blah blah blah....but it's much like something I needed to watch....so do you. A proper comedy with a bit of classic Indian drama to it. And mark my words, the music album is 🔥 literally 🔥."
+        ]
+    },
+    {
+        "name": "GOAT",
+        "image": "goat.jpeg",
+        "genre": "Action/Sci-fi",
+        "director":"Venkat Prabhu ",
+        "description":  " After years of successful operations, an elite agent suddenly retires, choosing a quiet, ordinary life. However, when a past mission comes back to haunt him, he reunites with his team to prevent a catastrophic disaster.",
+        "reviews": [
+           " Watched GOAT , and what an experience it was!.",
+            "1st half in some areas it felt a little lag but while ending first half it was awesome ..first half needed some corrections..especially in de aging.needed more corrections...",
+            "The climax was a bit too draggy, the VFX in certain scenes was not very appealing."
+        ]
+    },
+    {
+        "name": "Spiderman3-No Way Home",
+        "image": "spiderman3.jpeg",
+        "genre": "Comedy, Fantasy",
+        "director":"Jon Watts",
+        "description": "Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange's spell goes horribly wrong, leading to unwanted guests entering their universe.",
+        "reviews": [
+            "In a word, amazing.In other words, it’s the kind of experience that you have to see to believe!!!!",
+            "super movie 5/5 no wards 👌Convoluted as the Marvel Cinematic Universe has gotten, Holland's latest opus spins two decades and three iterations of the Spidey brand into a satisfying meta-adventure",
+            "This film is amazing! The best Spider-Man film yet."
+        ]
+    },
+    {
+        "name": "Drishyam",
+        "image": "drishyam_1.jpeg",
+        "genre": "Thriller",
+        "director":"Jithu Joseph",
+        "description": "Georgekutty lives a happy life with his wife and daughters. However, things take a turn for the worse when his family commits an accidental crime, leaving him to protect them and their secret.",
+        "reviews": [
+            "One word to describe this movie is WOW. Most probably the best suspense thriller ever.",
+            "One of the astounding Malayalam film.This  a must watch movie what ever the language it doesn't matter",
+            "A must watch thriller movie.. Another masterpiece from the Legend actor Mohanlal. Undoubtedly, he's a world class actor. ."
+        ]
+    },
+    {
+        "name": "Kaathal",
+        "image": "kaathal.jpeg",
+        "genre": " Drama",
+        "director":"Jeo Baby",
+        "description": "A mockumentary-style sitcom that takes a comedic look at the everyday lives of office employees working at Dunder Mifflin. With quirky characters and awkward situations, it humorously captures the dynamics of office culture.",
+        "reviews": [
+            "Kaathal The Core (2023/ Malayalam/ Prime): I strongly Recommend this film, which made me say .I Miss this Malayalam Cinema, which takes its time to bring its gems and when it comes, it strikes",
+            "The movie starts slow and you need to cross the first 30-40 mins to understand the core issue. ",
+            "kaathal the core is a depiction of  the emotional battle of those impacted in an unorthodox romantic attraction."
+        ]
+    },
+    {
+        "name": "Jai Bhimr",
+        "image": "jaibhim.jpeg",
+        "genre": "Crime",
+        "director":"T.J.Gnanavel",
+        "description": "A brave activist-lawyer fights for justice when a poor tribal man, who gets falsely accused of robbery, goes missing from the police custody.Tribal life and their rights are cleverly delivered.",
+        "reviews": [
+            "  One of the exceptional, outstanding movies . Court drama that is so thoroughly astonishing & engaging right from the start of the movie.The cast and locations are so real. Its must watch .Very excellent ",
+            "Jai Bhim....Heart wrenching....raw...real......After ages saw an epic movie which refuses to leave my soul even after 24 hours. Normally language barriers dont let us venture into art beyond our comfort...",
+            "Had a feeling of watched a quality movie after some time in this covid Pandemic."
+        ]
+    },
+    {
+        "name": "Inception",
+        "image": "inception.jpeg",
+        "genre": "Sci-fi/Action",
+        "director":"Christopher Nolan",
+        "description": "Cobb steals information from his targets by entering their dreams. He is wanted for his alleged role in his wife's murder and his only chance at redemption is to perform a nearly impossible task.",
+        "reviews": [
+            "Inception is, without a doubt, one of my favourite movies of all time. Directed by Christopher Nolan, this film delivers a unique blend of mind-bending storytelling, impeccable performances, and stunning visuals that have left a lasting impression on me.",
+            "Film starts with an idea initially .The starting is so good & how it plays with your mind. How they talk about an idea to saito & how he checks if it's real or not !!",
+            "  Watching this movie was like going on a mind-blowing mind bender, right from the start. I love the opening scene and how it kind of starts off like real dreams do, in that you just find yourself in a dream ."
+        ]
+    },
+    {
+        "name": "Spiderman-Homecoming",
+        "image": "spiderman2.jpeg",
+        "genre": "Fantasy,Adventure",
+        "director":"Jon Watts",
+        "description": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
+        "reviews": [
+            "This mite be one of my favorite spiderman movies .",
+            "The director made a comprehensive list of things done in previous Spider-Man movies so that this one would avoid them and feel fresh. It paid off well.",
+            "  Loved the new take on this iconic hero, as Tom Holland is a versatile actor that can show comedy and the grit and emotion of being a young superhero and how relatable it is to also be an Avengers fan.."
+        ]
+    },
+    {
+        "name": "The Dark Knight",
+        "image": "darkknight.jpeg",
+        "genre": "Action, Crime",
+        "director":"Christopher Nolan",
+        "description": " The Dark Knight is a 2008 superhero film that elevates the genre with gripping action sequences and profound thematic depth.",
+        "reviews": [
+            "A mesmerizing performance by Heath Ledger; this is a superhero movie like no other.  It is a must watch movie by all hollywood ",
+            "With breathtaking action and a chilling villain, The Dark Knight redefines the superhero genre.",
+            " Dark, gripping, and emotionally charged; one of the finest films of its time."
+        ]
+    },
+    {
+        "name": "Interstellar",
+        "image": "interstellar.jpeg",
+        "genre": "Sci-Fi, Adventure",
+        "director":"Christopher Nolan",
+        "description": " Interstellar is a visually stunning space exploration movie with strong emotional underpinnings, exploring the vastness of the cosmos and human perseverance.",
+        "reviews": [
+            "A mind-blowing masterpiece about space, love, and survival. A visually stunning experience.",
+            "Nolan’s best film yet; it balances heart and mind in a grand adventure through space.",
+            " A visually stunning and emotionally powerful space epic."
+        ]
+    },
+    {
+        "name": "Parasite",
+        "image": "parasite.jpeg",
+        "genre": "Drama, Thriller",
+        "director":"Bong Joon-ho",
+        
+        "description": " Parasite is a South Korean dark comedy thriller that portrays class disparity in a gripping and surprising narrative that unfolds with shocking twists.",
+        "reviews": [
+            "   A genre-bending, unpredictable film that’s unlike anything you've seen before. ",
+            "Nolan’s best film yet; it balances heart and mind in a grand adventure through space.",
+            " Equal parts funny, disturbing, and tragic; Parasite is a cinematic triumph."
+        ]
+    },
+    {
+        "name": "Joker",
+        "image": "joker.jpeg",
+        "genre": "Drama, Crime",
+        "director":"Todd Phillips",
+        "description": "  Joker is a 2019 psychological thriller that delves into the backstory of the iconic DC villain, exploring his descent into madness.",
+        "reviews": [
+            " A dark and disturbing character study; Joaquin Phoenix gives a career-defining performance.  Its a worth watch ",
+            "A daring, haunting film that leaves a lasting impression.",
+            " A raw, visceral exploration of the human condition."
+        ]
+    },
+    {
+        "name": "Avengers: Endgame",
+        "image": "avengers_endgame.jpeg",
+        "genre": "Action, Sci-Fi",
+        "director":"Anthony and Joe Russo",
+        "description": "  Avengers: Endgame is a 2019 superhero film that serves as the grand conclusion to over a decade of interconnected Marvel stories.",
+        "reviews": [
+            "  A monumental cinematic achievement; a heart-pounding, emotionally satisfying end to the Infinity Saga. ",
+            "A thrilling spectacle that perfectly balances action and emotional payoffs for long-time fans.",
+            " An epic and nostalgic journey that delivers closure while also leaving fans excited for the future of the MCU"
+        ]
+    }
+]
